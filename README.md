@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-Hello everyone, it's my first chance to use GitHub.
+
+Hi, everyone, this is my first time to use GitHub. I hope you can give me your advice. Thank you.
